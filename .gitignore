@@ -3,3 +3,7 @@
 ################################################################################
 
 /DockerDemoHelloWorld/.vs/DockerDemoHelloWorld/v15
+/.vs
+/DockerDemoHelloWorld/obj
+/DockerDemoHelloWorld/DockerDemoHelloWorld/bin
+/DockerDemoHelloWorld/DockerDemoHelloWorld/obj
